@@ -1,0 +1,6 @@
+Gas_91,0.811
+Gas_95,0.851
+Diesel,0.734
+Castrol,6
+Shell,5
+Mobil,4
